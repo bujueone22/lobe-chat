@@ -14,4 +14,4 @@ export const LanguageModelWhiteList = [
 export const DEFAULT_OPENAI_MODEL_LIST: string[] = Object.values(LanguageModel);
 
 // vision model white list, these models will change the content from string to array
-export const VISION_MODEL_WHITE_LIST = ['gpt-4-vision-preview'];
+export const VISION_MODEL_WHITE_LIST = ['gpt-4-all'];
